@@ -350,7 +350,7 @@ export default function Home() {
                           fontFamily="Mynerve"
                           sx={{ color: "black", textAlign: "center" }}
                         >
-                          Dear Nong BB,
+                          Dear Nong B,
                         </Typography>
                         <Typography
                           id="modal-modal-description"
@@ -379,7 +379,7 @@ export default function Home() {
                           sign that bb is strong mak mak loey !! You are a lot
                           stronger than you know, you just need to believe in it
                           more. bb make me feel very happy and very bouncy mai
-                          roo boing boing boing
+                          roo boing boing boing no cap you feel me?
                         </Typography>
                         <Typography
                           id="modal-modal-description"
@@ -400,7 +400,7 @@ export default function Home() {
                         >
                           Tokyo was super fun and i want to go back again !
                           disneyland and exploring tokyo with bb is everything
-                          me could wish for. gettign to experience that is a
+                          me could wish for. getting to experience that is a
                           blessing that me likey and cherish very much. we have
                           so much more to do and explore and i hope bb can
                           imagine the endless possibilities that we have and
@@ -411,8 +411,9 @@ export default function Home() {
                           fontFamily="Mynerve"
                           sx={{ mt: 2, color: "black", textAlign: "center" }}
                         >
-                          I lub bb so so muchi more than bb can imagine. Happy 5
-                          months ! - P bb.
+                          domo arigato gozaimasu for taking care of me from far
+                          away. I lub bb so so muchi more than bb can imagine.
+                          Happy 5 months ! - P bb.
                         </Typography>
                       </>
                     )}
