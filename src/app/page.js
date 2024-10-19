@@ -155,14 +155,12 @@ export default function Home() {
             <Confetti
               width={dimensions.width}
               height={dimensions.height}
-              gravity={0.6}
             />
           )}
           {letter && (
             <Confetti
               width={dimensions.width}
               height={dimensions.height}
-              gravity={0.6}
             />
           )}
           <Grid container direction="row" justifyContent="center" size={12}>
