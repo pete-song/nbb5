@@ -192,7 +192,7 @@ export default function Home() {
               <Box>
                 <Image
                   alt="Happy wife, happy life."
-                  src="/mimibubu.gif"
+                  src="/nbb5/mimibubu.gif"
                   width={300}
                   height={200}
                 />
@@ -200,7 +200,7 @@ export default function Home() {
               <Box>
                 <Image
                   alt="Happy wife, happy life."
-                  src="/amore-love-you.gif"
+                  src="/nbb5/amore-love-you.gif"
                   width={300}
                   height={200}
                 />
@@ -222,7 +222,7 @@ export default function Home() {
                 <Box>
                   <Image
                     alt="Happy wife, happy life."
-                    src="/disneyland.png"
+                    src="/nbb5/disneyland.png"
                     width={300}
                     height={400}
                   />
@@ -260,7 +260,7 @@ export default function Home() {
                         >
                           <Image
                             alt="Happy wife, happy life."
-                            src="/peach-goma (1).gif"
+                            src="/nbb5/peach-goma (1).gif"
                             width={160}
                             height={120}
                           />
@@ -337,7 +337,7 @@ export default function Home() {
                           <Box>
                             <Image
                               alt="Happy wife, happy life."
-                              src="/disneyland2.png"
+                              src="/nbb5/disneyland2.png"
                               width={250}
                               height={333}
                             />
@@ -431,7 +431,7 @@ export default function Home() {
               <Box>
                 <Image
                   alt="Happy wife, happy life."
-                  src="/peach-goma copy.gif"
+                  src="/nbb5/peach-goma copy.gif"
                   width={300}
                   height={300}
                 />
@@ -439,7 +439,7 @@ export default function Home() {
               <Box>
                 <Image
                   alt="Happy wife, happy life."
-                  src="/thank-you.gif"
+                  src="/nbb5/thank-you.gif"
                   width={250}
                   height={200}
                 />
