@@ -7,7 +7,7 @@ const nextConfig = {
     unoptimized: true,
   },
   assetPrefix: isProd ? "/nbb5/" : "",
-  basePath: isProd ? "/nbb5" : "",
+  basePath: isProd ? "/nbb5/" : "",
   output: "export",
 };
 
