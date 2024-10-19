@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import { Avatar, Box } from "@mui/material";
+import { Box } from "@mui/material";
 import Grid from "@mui/material/Grid2";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
@@ -105,7 +105,7 @@ export default function Home() {
               <Box onClick={() => setMail(false)}>
                 <Image
                   alt="Happy wife, happy life."
-                  src="/mail1.gif"
+                  src="/nbb5/mail1.gif"
                   width={800}
                   height={500}
                 />
